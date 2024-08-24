@@ -21,7 +21,7 @@ During the EDA phase, we used `ggplot2` for static visualizations to explore and
 This style of EDA helps in uncovering patterns and relationships in the data, providing insights into the factors influencing patient outcomes.
 
 ### Model Performance
-Our Logistic Regression model demonstrated impressive predictive performance, achieving an accuracy of approximately 92.34% on the validation set. This high level of accuracy indicates that the model effectively predicts patient survival or death.
+Our Logistic Regression model demonstrated impressive predictive performance, achieving an accuracy of approximately 92.57% on the validation set. This high level of accuracy indicates that the model effectively predicts patient survival or death.
 
 ### Conclusion
 This project highlights the successful application of a Logistic Regression model for predicting in-hospital mortality. With an accuracy of 92.34% on the validation set, the model offers significant potential for use in healthcare settings. By leveraging diverse patient data—including demographics, medical history, and vital signs—healthcare professionals can gain valuable insights into patient outcomes and improve decision-making processes.
